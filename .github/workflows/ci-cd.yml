@@ -31,7 +31,7 @@ jobs:
      uses: actions/checkout@v3
 
      -name: Deploy (example)
-      run: echo "Deploying app..."
+      run: echo "heroku deploy"
 
         
          
